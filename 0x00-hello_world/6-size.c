@@ -1,11 +1,9 @@
 #include <stdio.h>
-
 /**
  * main - main function
  *
- * Return: 0
+ * Return: Always 0 (success)
  */
-
 int main(void)
 {
 	printf("Size of a char: 1 byte(s)\n", sizeof(char));
